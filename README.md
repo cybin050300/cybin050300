@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YUBIN&fontSize=90" />
-:pencil2:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YuBin's Github&fontSize=90" />
+<div align="center"> 
+<h2>:pencil2:Studying
+<p align="center">
 <!--
 **cybin050300/cybin050300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
